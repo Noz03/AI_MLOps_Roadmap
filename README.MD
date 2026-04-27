@@ -1,6 +1,6 @@
 # AI & MLOps Architect Roadmap
 
-Bản đồ lộ trình học tập chuyên sâu dành cho vị trí **AI System Architect** và **MLOps Engineer**, tập trung vào hệ sinh thái **Python**, **Thiết kế Hệ thống** và **Vận hành Hạ tầng**.
+Roadmap chuyên sâu dành cho vị trí **AI System Architect** và **MLOps Engineer**, tập trung vào hệ sinh thái **Python**, **Thiết kế Hệ thống** và **Vận hành Hạ tầng**.
 
 Dự án này được thiết kế để theo dõi tiến độ và cung cấp cái nhìn tổng quan về các kỹ năng cần thiết từ nền tảng Khoa học máy tính đến việc triển khai AI trên quy mô lớn.
 
