@@ -1,5 +1,4 @@
-# Nội dung file README.md được tạo
-readme_content = """# AI & MLOps Architect Roadmap
+# AI & MLOps Architect Roadmap
 
 Bản đồ lộ trình học tập chuyên sâu dành cho vị trí **AI System Architect** và **MLOps Engineer**, tập trung vào hệ sinh thái **Python**, **Thiết kế Hệ thống** và **Vận hành Hạ tầng**.
 
