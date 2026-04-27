@@ -5,22 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Roadmap AI Architect - Nozoe</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
 
     <header>
         <h1>AI & MLOps Architect</h1>
-        <p>Lộ trình AI Python & Kiến trúc Hệ thống</p>
+        <p>Lộ trình Thuần Python & Kiến trúc Hệ thống - Cậu chủ Nozoe</p>
     </header>
 
     <div class="container">
-        <div class="roadmap" id="roadmap-container">
-            </div>
+        <div class="roadmap" id="roadmap-container"></div>
 
-        <div class="info-panel-container">
+        <div class="info-panel-container" id="desktop-panel">
             <div class="info-panel" id="info-display">
                 <div class="placeholder">Chọn một giai đoạn để xem chi tiết...</div>
             </div>
+        </div>
+    </div>
+
+    <div id="info-modal" class="modal-overlay">
+        <div class="modal-content">
+            <span class="modal-close" onclick="closeModal()">&times;</span>
+            <div id="modal-body-content"></div>
         </div>
     </div>
 
